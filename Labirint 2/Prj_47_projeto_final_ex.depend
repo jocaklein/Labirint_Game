@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1615419319 source:e:\pgri\prj_47_projeto_final_ex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"le_teclas.h"
+	"my_lib.h"
+
+1615042227 e:\pgri\prj_47_projeto_final_ex\le_teclas.h
+
+1614808170 e:\pgri\prj_47_projeto_final_ex\my_lib.h
+	<time.h>
+	<windows.h>
+
+1615935147 source:c:\users\joaop\desktop\prj_47_projeto_final_ex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"le_teclas.h"
+	"my_lib.h"
+
+1615042227 c:\users\joaop\desktop\prj_47_projeto_final_ex\le_teclas.h
+
+1614808170 c:\users\joaop\desktop\prj_47_projeto_final_ex\my_lib.h
+	<time.h>
+	<windows.h>
+
